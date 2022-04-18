@@ -1,3 +1,6 @@
 [submodule "Projet"]
 	path = Projet
 	url = https://github.com/SlamaFR/M1-S2-Image-Processing-Project
+[submodule "M1-S2-Image-Processing-Project"]
+	path = M1-S2-Image-Processing-Project
+	url = git@github.com:SlamaFR/M1-S2-Image-Processing-Project.git
